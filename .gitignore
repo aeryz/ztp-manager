@@ -1,0 +1,7 @@
+cmake-build-debug/
+CMakeFiles/
+cmake-build-debug
+.vscode
+.idea
+build/
+myeasylog.log
